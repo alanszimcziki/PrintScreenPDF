@@ -1,0 +1,1 @@
+Project that takes print screens of PDF files, where it will generate a new folder on your computer with all the prints, for you to use you will use postman where we will make a POST request, and in the body of our request, we will place the key with the name "file", the type will be "File" and in the value we will place our PDF file to take the printscreens.
